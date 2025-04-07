@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Creative Website</title>
+    <style>
+        body {
+            color: black;
+            font-family: Arial, sans-serif;
+        }
+        h2 {
+            color: black;
+            font-style: italic;
+            text-align: center;
+        }
+        .center {
+            text-align: center;
+        }
+        ul, ol {
+            margin: 0 auto;
+            display: inline-block;
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+
+    <h1><i>Main Heading of the Creative Website</i></h1>
+    <p>An introduction about the page is to be put here, telling the visitor what the page is all about.</p>
+
+    <h2>Sub-Heading can follow</h2>
+    <p>It is a good approach to split the information on your website into various sections.<br/>
+    This way, it will be easier to navigate and manage the information on the page.</p>
+
+    <h2>Sub-Headings are not limited</h2>
+    <p>Why limit to one only? The more, the better. But a good approach is to segregate the 
+    information into groups and assign each group under a different subheading.</p>
+
+    <h2>Main Heading of Size 2</h2>
+    <h6>Smallest Heading</h6>
+    <p>We put a simple sentence here.</p>
+
+    <p><span>Span is marked in this line.</span>
+    <span> In this line as well, because we didn’t assign a line-break before this line, so this line is in continuation.</span></p>
+
+    <div style="color: rgb(0, 0, 0);">
+        <style>
+        body {
+            color: black;
+            font-family: Arial, sans-serif;
+            background-image:url('https://images.unsplash.com/photo-1503264116251-35a269479413?auto=format&fit=crop&w=1920&q=80');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-position: center;
+        }
+    
+        h2 {
+            color: black;
+            font-style: italic;
+            text-align: center;
+        }
+    
+        .center {
+            text-align: center;
+        }
+    
+        ul, ol {
+            margin: 0 auto;
+            display: inline-block;
+            text-align: left;
+        }
+    </style>
+        <p>Let's explore the div tag alone.</p>
+        <p>div tag changed color to aqua.</p>
+        <div class="center">
+            <h3>A Level 3 Heading in the Center</h3>
+            <p>Just a sentence with the heading, otherwise, why do we need the heading?</p>
+        </div>
+    </div>
+
+    <i>A horizontal line to differentiate sections or mark the end of the text.</i><br/>
+    <em>In italics, as well</em><br/>
+    <strong>But we can have a footnote, below the line.</strong>
+    <hr />
+    <small>But we can have a footnote, below the line.</small>
+
+    <div class="center">
+        <img src="f:/MCw logo.jpg" alt="MCW Logo" style="width:200px; height:auto;" />
+    </div>
+
+    <div class="center">
+        <h2>My Creative Website</h2>
+        <h4>Let's Learn</h4>
+        <p>Welcome to website of My Creative Website</p>
+        <h3>Things We Teach</h3>
+        <ul>
+            <li>About Cars</li>
+            <li>About Games</li>
+            <li>Editing</li>
+            <li>Trading</li>
+            <li>Software Engineering</li>
+            <li>Coding</li>
+        </ul>
+        <p>
+            For further details for cars visit
+            <a href="https://lkqwnfln34.github.io/Dogar.Retails.website/">Dogar Dealer</a>
+        </p>
+        <h3>Fee Structure</h3>
+    </div>
+
+    <p>We take fee in advance. <b>Discount</b> is offered on payment of <strong>Full Fee</strong> only.</p>
+    
+    <h4>Option of Installment</h4>
+    <p>A maximum of 4 installments can be arranged on monthly basis:</p>
+    <ol>
+        <li>First installment is 40%</li>
+        <li>Second installment is 20%</li>
+        <li>Third installment is 20%</li>
+        <li>Fourth installment is 20%</li>
+    </ol>
+
+    <hr>
+    <small>We have No-Refund Policy.</small>
+     <br/>
+<body style="text-align: center;">
+    <h2 style="color: rgb(0, 0, 0);">Editing
+    <p>Follwing Edit Shows Nature</p>
+    </h2>
+    <video width="700px" height="500px" controls>
+       <source src="f:\857195-hd_1280_720_25fps.mp4" type="video/mp4"/>
+    </video>
+</body>
+</html>
